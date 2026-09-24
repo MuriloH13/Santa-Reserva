@@ -12,3 +12,11 @@ O sistema foi desenvolvido para auxiliar a gestão de estabelecimentos hoteleiro
 * Colaboração em diferentes partes da aplicação, participando da integração entre as funcionalidades desenvolvidas pela equipe.
 
 O projeto proporcionou minha primeira experiência prática mais abrangente com Java, especialmente na integração entre interfaces gráficas, regras de negócio e persistência de dados relacionais.
+
+
+
+
+
+Ps: Esta é uma branch clonada da verdadeira branch onde o projeto foi desenvolvido, devido ao projeto estar no git pessoal de outro integrante tive de fazer isso para que pudesse ser demonstrado como portfólio.
+
+Segue Branch de versionamento com todos os commits efetuadas até conclusão: https://github.com/GustavoHLZ/PI-SantaReserva
